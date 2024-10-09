@@ -211,9 +211,9 @@ nav {
     flex-direction: column;
     align-items: center;
     background-color: var(--beige-color);
+    padding: 15px;
     padding-top: 47px;
     padding-bottom: 120px;
-    padding: 15px;
 }
 
 .tarifs {
